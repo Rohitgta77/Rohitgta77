@@ -3,11 +3,11 @@
 
 ## I'm a Java and Android Developer
 
-- 🔭 I’m currently working on a [VS Code Course][website]!
+- 🔭 I’m currently working as a Java and Android Developer [website]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- 🥅 2021 Goals: Contribute more to Open Source projects
+- ⚡ Hobbies : Sketching , Video Production , Photography , Creative Writing
 
 ### Spotify Playing 🎧
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="rohitgta77 Spotify Playing" width="350" />](https://open.spotify.com/user/31tylsvofaxwvg74kgdtmabafjrm)
@@ -18,7 +18,7 @@
 [<img align="left" alt="RohitGta | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="RohitGta | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="RohitGta | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
+[<img align="left" alt="RohitGta | Instagram" width="22px" src="https://images.app.goo.gl/dyW2dXstwGT9GBoM9" />]
 
 <br />
 
