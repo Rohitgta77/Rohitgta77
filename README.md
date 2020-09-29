@@ -1,6 +1,6 @@
-### Hi there, I'm <img src="https://github.com/Rohitgta77/Rohitgta77/blob/master/Rohit.gif" width="200">Rohit Gupta 👋
+### Hi there, I'm Rohit Gupta 👋
 
-## I'm a Java and Android Developer <img src="https://github.com/Rohitgta77/Rohitgta77/blob/master/android.gif" width="200">
+## I'm a Java and Android Developer <img src="https://github.com/Rohitgta77/Rohitgta77/blob/master/android.gif" width="80">
 
 - 🔭 I’m currently working as a Java and Android Developer [website]!
 - 🌱 I’m currently learning everything 🤣
@@ -57,20 +57,6 @@
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/RohitGta)
-
----
-
-### 📕 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Microinteractions: Password Validation Animation](https://dev.to/RohitGta/microinteractions-password-validation-animation-5629)
-- [Notion + YouTube - A Powerful Combination for Productivity](https://dev.to/RohitGta/notion-youtube-a-powerful-combination-for-productivity-1def)
-- [Regular Expressions (RegEx) Crash Course](https://dev.to/RohitGta/regular-expressions-regex-crash-course-248n)
-- [Emmet Part 2 - Advanced](https://dev.to/RohitGta/emmet-part-2-advanced-4c65)
-- [Deno 1.0 Released! (Easy) REST API Example](https://dev.to/RohitGta/deno-1-0-released-easy-rest-api-example-2fbl)
-<!-- BLOG-POST-LIST:END -->
-
-➡️ [more blog posts...](https://RohitGta.com)
 
 ---
 
