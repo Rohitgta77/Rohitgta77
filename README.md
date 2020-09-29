@@ -94,7 +94,7 @@
 
 </details>
 
-[website]: https://RohitGta.com
+[website]: https://rohitgta77.github.io/myResume/
 [twitter]: https://twitter.com/RohitGta77
 [youtube]: https://youtube.com/RohitGta77
 [instagram]: https://instagram.com/RohitGta77
