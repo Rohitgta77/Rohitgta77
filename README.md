@@ -95,11 +95,11 @@
 </details>
 
 [website]: https://RohitGta.com
-[twitter]: https://twitter.com/RohitGta
-[youtube]: https://youtube.com/RohitGta
-[instagram]: https://instagram.com/RohitGta
-[linkedin]: https://linkedin.com/in/RohitGta
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+[twitter]: https://twitter.com/RohitGta77
+[youtube]: https://youtube.com/RohitGta77
+[instagram]: https://instagram.com/RohitGta77
+[linkedin]: https://linkedin.com/in/RohitGta77
+[webdevplaylist]: https://www.youtube.com/watch?v=4hSQ7sU-Qo4
+[jsplaylist]: https://www.youtube.com/watch?v=BNhjgsp3t94
+[cssplaylist]: https://www.youtube.com/watch?v=8BPE2NU3x_k&t=44s
+[reactplaylist]: https://www.youtube.com/watch?v=irOVSldhdBI&t=2s
