@@ -58,7 +58,7 @@
 
 [website]: https://rohitgta77.github.io/myResume/
 [twitter]: https://twitter.com/RohitGta77
-[youtube]: https://youtube.com/RohitGta77
+[youtube]: https://www.youtube.com/channel/UCWkTxS43fy4xwdzI867aN_g
 [instagram]: https://instagram.com/RohitGta77
 [linkedin]: https://linkedin.com/in/RohitGta77
 [webdevplaylist]: https://www.youtube.com/watch?v=4hSQ7sU-Qo4
