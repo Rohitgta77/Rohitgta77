@@ -1,6 +1,6 @@
 ### Hi there, I'm Rohit Gupta 👋
 
-[<img align="left" alt="RohitGta | Instagram" width="22px" src="https://images.app.goo.gl/dyW2dXstwGT9GBoM9" />][website]
+[<img align="left" alt="RohitGta | Instagram" width="22px" src="Rohitgta77/loop.gif" />][website]
 
 ## I'm a Java and Android Developer
 
