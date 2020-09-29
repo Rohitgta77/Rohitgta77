@@ -1,7 +1,7 @@
 ### Hi there, I'm Rohit Gupta 👋
 
-[<img align="left" alt="RohitGta | Instagram" width="22px" src="Rohitgta77/loop.gif" />][website]
-
+<img src="https://github.com/Rohitgta77/Rohitgta77/blob/master/loop.gif" width="200">
+<img src="/app/src/main/res/drawable/GroceryShopApp7.jpg" width="200">
 ## I'm a Java and Android Developer
 
 - 🔭 I’m currently working as a Java and Android Developer [website]!
