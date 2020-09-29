@@ -10,7 +10,7 @@
 - ⚡ Fun fact: I love to draw and play guitar / drums
 
 ### Spotify Playing 🎧
-[<img src="https://now-playing-RohitGta.vercel.app/api/spotify-playing" alt="RohitGta Spotify Playing" width="350" />](https://open.spotify.com/user/31tylsvofaxwvg74kgdtmabafjrm)
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="rohitgta77 Spotify Playing" width="350" />](https://open.spotify.com/user/31tylsvofaxwvg74kgdtmabafjrm)
 
 ### Connect with me:
 
