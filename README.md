@@ -18,7 +18,6 @@
 [<img align="left" alt="RohitGta | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="RohitGta | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-<img src="https://github.com/Rohitgta77/Rohitgta77/blob/master/loop.gif" width="200">
 
 <br />
 
@@ -59,26 +58,6 @@
 ➡️ [more videos...](https://youtube.com/RohitGta)
 
 ---
-
-<details>
-  <summary>:zap: Recent Github Activity</summary>
-  
-<!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1](https://github.com//RohitGta/RohitGta-vscode-theme/issues/1) in [RohitGta/RohitGta-vscode-theme](https://github.com//RohitGta/RohitGta-vscode-theme)
-2. 🎉 Merged PR [#2](https://github.com//RohitGta/RohitGta-vscode-theme/pull/2) in [RohitGta/RohitGta-vscode-theme](https://github.com//RohitGta/RohitGta-vscode-theme)
-3. 🗣 Commented on [#1](https://github.com//RohitGta/RohitGta-vscode-theme/issues/1) in [RohitGta/RohitGta-vscode-theme](https://github.com//RohitGta/RohitGta-vscode-theme)
-4. 💪 Opened PR [#6](https://github.com//colbyfayock/50-projects-for-react-and-the-static-web/pull/6) in [colbyfayock/50-projects-for-react-and-the-static-web](https://github.com//colbyfayock/50-projects-for-react-and-the-static-web)
-5. 🗣 Commented on [#249](https://github.com//abhisheknaiidu/awesome-github-profile-readme/issues/249) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com//abhisheknaiidu/awesome-github-profile-readme)
-<!--END_SECTION:activity-->
-
-</details>
-
-<details>
-  <summary>:zap: Github Stats</summary>
-
-  <img align="left" alt="RohitGta's Github Stats" src="https://github-readme-stats.RohitGta.vercel.app/api?username=RohitGta&show_icons=true&hide_border=true" />
-
-</details>
 
 [website]: https://rohitgta77.github.io/myResume/
 [twitter]: https://twitter.com/RohitGta77
