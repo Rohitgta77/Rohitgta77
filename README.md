@@ -1,6 +1,6 @@
-### Hi there, I'm <img src="https://github.com/Rohitgta77/Rohitgta77/blob/master/Rohit.gif" width="20">Rohit Gupta 👋
+### Hi there, I'm <img src="https://github.com/Rohitgta77/Rohitgta77/blob/master/Rohit.gif" width="200">Rohit Gupta 👋
 
-## I'm a Java and Android Developer
+## I'm a Java and Android Developer <img src="https://github.com/Rohitgta77/Rohitgta77/blob/master/android.gif" width="200">
 
 - 🔭 I’m currently working as a Java and Android Developer [website]!
 - 🌱 I’m currently learning everything 🤣
