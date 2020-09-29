@@ -12,12 +12,13 @@
 ### Spotify Playing 🎧
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="rohitgta77 Spotify Playing" width="350" />](https://open.spotify.com/user/31tylsvofaxwvg74kgdtmabafjrm)
 
-### Connect with me:
 
-[<img align="left" alt="RohitGta.com" width="22px" src="https://rohitgta77.github.io/myResume/" />][website]
-[<img align="left" alt="RohitGta | YouTube" width="22px" src="https://www.youtube.com/channel/UCWkTxS43fy4xwdzI867aN_g?view_as=subscriber" />][youtube]
-[<img align="left" alt="RohitGta | LinkedIn" width="22px" src="https://www.linkedin.com/in/rohit-gupta-a83209150/" />][linkedin]
+### Connect with me:
+[<img align="left" alt="RohitGta.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="RohitGta | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="RohitGta | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="RohitGta | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
 
 <br />
 
