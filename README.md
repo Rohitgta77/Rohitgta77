@@ -1,4 +1,4 @@
-### Hi there, I'm Rohit Gupta 👋
+### Hi there, I'm <img src="https://github.com/Rohitgta77/Rohitgta77/blob/master/Rohit.gif" width="20">Rohit Gupta 👋
 
 ## I'm a Java and Android Developer
 
