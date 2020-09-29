@@ -48,14 +48,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Become A VS Code SuperHero Today! | Course Launch](https://www.youtube.com/watch?v=MIsHYGZ3MwQ)
-- [How to Create a VS Code Extension Pack | Top Extensions | Download SuperHero Extension Pack Now!!](https://www.youtube.com/watch?v=DvNXEBxO3YQ)
-- [How to Create a Custom VS Code Theme (2020) | Step-by-Step | Debut of RohitGta Dark Theme](https://www.youtube.com/watch?v=QCqWzb-9Sy8)
-- [FREE Icons! How to use Bootstrap Icons v1.0.0 | Bootstrap 5 (2020)](https://www.youtube.com/watch?v=DPnJldwv22o)
-- [0 to 70K SUBSCRIBERS in 1 YEAR | YouTube 2020: The strategies that helped me to grow on YouTube](https://www.youtube.com/watch?v=oNGZ7h5LR-o)
+- [Gym App 💪 Android app || Android Studio || Application development](https://www.youtube.com/watch?v=MIsHYGZ3MwQ)
+- [Grocery 🍓🍊 Android app || Android Studio || Application development](https://www.youtube.com/watch?v=DvNXEBxO3YQ) 
 <!-- YOUTUBE:END -->
 
-➡️ [more videos...](https://youtube.com/RohitGta)
+➡️ [more videos...](https://www.youtube.com/channel/UCWkTxS43fy4xwdzI867aN_g)
 
 ---
 
