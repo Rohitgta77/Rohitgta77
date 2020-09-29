@@ -1,5 +1,6 @@
 ### Hi there, I'm Rohit Gupta 👋
 
+[<img align="left" alt="RohitGta | Instagram" width="22px" src="https://images.app.goo.gl/dyW2dXstwGT9GBoM9" />]
 
 ## I'm a Java and Android Developer
 
@@ -18,7 +19,7 @@
 [<img align="left" alt="RohitGta | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="RohitGta | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="RohitGta | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="RohitGta | Instagram" width="22px" src="https://images.app.goo.gl/dyW2dXstwGT9GBoM9" />]
+
 
 <br />
 
