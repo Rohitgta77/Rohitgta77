@@ -2,7 +2,7 @@
 
 ## I'm a Java and Android Developer <img src="https://github.com/Rohitgta77/Rohitgta77/blob/master/android.gif" width="80">
 
-- 🔭 I’m currently working as a Java and Android Developer [website]!
+- 🔭 I’m currently working as a Java and Android Developer [resume]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
@@ -57,6 +57,7 @@
 ---
 
 [website]: https://rohitgta77.github.io/myResume/
+[resume]: https://rohitgta77.github.io/myResume/
 [twitter]: https://twitter.com/RohitGta77
 [youtube]: https://www.youtube.com/channel/UCWkTxS43fy4xwdzI867aN_g
 [instagram]: https://instagram.com/RohitGta77
