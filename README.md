@@ -1,4 +1,5 @@
 ### Hi there, I'm Rohit Gupta 👋
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Rohitgta77" alt="Rohitgta77" /> </p>
 
 ## I'm a Java and Android Developer <img src="https://github.com/Rohitgta77/Rohitgta77/blob/master/android.gif" width="80">
 
