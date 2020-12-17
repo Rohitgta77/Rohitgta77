@@ -1,8 +1,5 @@
 ### Hi there, I'm Rohit Gupta 👋
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Rohitgta77" alt="Rohitgta77" /> </p>
-<!-- Badge Code - Do Not Change The Code -->
-<a class="hitCounter" href="https://visitorshitcounter.com/" target="_blank" title="Hit counter" data-name="99cd2175108d157588c04758296d1cfc|1|ip|1|rgb(51, 175, 228);|#ffffff|small|s-hit">Hit Counter</a><script>document.write("<script type='text/javascript' src='https://visitorshitcounter.com/js/hitCounter.js?v="+Date.now()+"'><\/script>");</script>
-<!-- Badge Code End Here -->
 
 ## I'm a Java and Android Developer <img src="https://github.com/Rohitgta77/Rohitgta77/blob/master/android.gif" width="80">
 
