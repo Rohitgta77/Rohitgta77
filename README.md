@@ -1,7 +1,7 @@
 ### Hi there, I'm Rohit Gupta 👋
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Rohitgta77" alt="Rohitgta77" /> </p>
 
-## I'm a Java and Android Developer <img src="https://github.com/Rohitgta77/Rohitgta77/blob/master/android.gif" width="80">
+## I'm a Android and Web Developer <img src="https://github.com/Rohitgta77/Rohitgta77/blob/master/android.gif" width="80">
 
 - 🔭 I’m currently working as a Java and Android Developer [My Resume]!
 - 🌱 I’m currently learning everything 🤣
