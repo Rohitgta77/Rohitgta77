@@ -3,14 +3,11 @@
 
 ## I'm a Android and Web Developer <img src="https://github.com/Rohitgta77/Rohitgta77/blob/master/android.gif" width="80">
 
-- 🔭 I’m currently working as a Java and Android Developer [My Resume]!
+- 🔭 I’m currently working as a Flutter Developer
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2023 Goals: Contribute more to Open Source projects
 - ⚡ Hobbies : Sketching , Video Production , Photography , Creative Writing
-
-### Spotify Playing 🎧
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="rohitgta77 Spotify Playing" width="350" />](https://open.spotify.com/user/31tylsvofaxwvg74kgdtmabafjrm)
 
 
 ### Connect with me:
