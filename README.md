@@ -8,6 +8,7 @@
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2023 Goals: Contribute more to Open Source projects
 - ⚡ Hobbies : Sketching , Video Production , Photography , Creative Writing
+- LINKTREE - https://linktr.ee/rohitgta77
 
 
 ### Connect with me:
