@@ -47,8 +47,8 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Gym App 💪 Android app || Android Studio || Application development](https://www.youtube.com/watch?v=MIsHYGZ3MwQ)
-- [Grocery 🍓🍊 Android app || Android Studio || Application development](https://www.youtube.com/watch?v=DvNXEBxO3YQ) 
+- [Gym App 💪 Android app || Android Studio || Application development](https://youtube.com/shorts/4hSQ7sU-Qo4)
+- [Grocery 🍓🍊 Android app || Android Studio || Application development](https://youtube.com/shorts/BNhjgsp3t94) 
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCWkTxS43fy4xwdzI867aN_g)
