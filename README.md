@@ -3,10 +3,10 @@
 
 ## I'm a Android and Web Developer <img src="https://github.com/Rohitgta77/Rohitgta77/blob/master/android.gif" width="80">
 
-- 🔭 I’m currently working as a Flutter Developer
-- 🌱 I’m currently learning everything 🤣
+- 🔭 I’m currently working as a Android Developer 
+- 🌱 I’m currently learning everything 🤣 (Kotlin, Jetpack Compose, Flutter, Dart, Python, Asp.net C#, Java, NodeJS and many more...)
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2023 Goals: Contribute more to Open Source projects
+- 🥅 2030 Goals: Contribute more to Open Source projects
 - ⚡ Hobbies : Sketching , Video Production , Photography , Creative Writing
 - LINKTREE - https://linktr.ee/rohitgta77
 
